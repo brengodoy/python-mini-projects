@@ -32,7 +32,7 @@ I'm continuously improving these projects and adding new ones as I grow. Stay tu
 
 ## 🚀 How to run a project
 
-cd <project-folder>
-python main.py
+`cd <project-folder>
+python main.py`
 
 Made with ☕, 💻 and a lot of love by brengodoyy 💗
